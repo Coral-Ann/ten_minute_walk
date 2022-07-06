@@ -28,7 +28,7 @@ Setup
 
 It should look like this:
 
-<div><img src="" width="650"></div>
+<div><img src="https://i.imgur.com/XDtCPO0.png" width="650"></div>
 
 
 Tech Stack
