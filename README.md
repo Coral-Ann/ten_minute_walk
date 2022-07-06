@@ -28,7 +28,7 @@ Setup
 
 It should look like this:
 
-<div><img src="https://i.imgur.com/Mo26hOr.png" width="650"></div>
+<div><img src="" width="650"></div>
 
 
 Tech Stack
@@ -42,4 +42,6 @@ Tech Stack
 Planned Tests
 ---
 
--
+- If array count is not 10, return false.
+- If array count is 10 but does not return user to original position, return false.
+- If array count is 10 and returns user to original position, return true.
